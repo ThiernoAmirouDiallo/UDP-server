@@ -12,7 +12,7 @@ Build and create executable jar file
 mvn clean package
 ```
 Execute the jar file
-```shell script
+```shell script 
 java -jar target/UdpServer-1.0-SNAPSHOT-jar-with-dependencies.jar 
 ```
 
